@@ -1,5 +1,26 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+![Screenshot 2024-10-27 173909](https://github.com/user-attachments/assets/0a0f448e-e098-401f-a4f9-da89bf13d62b)
+![Screenshot 2024-10-27 173858](https://github.com/user-attachments/assets/7679df53-e7a8-4257-9fa3-666abb778905)
+![Screenshot 2024-10-27 173833](https://github.com/user-attachments/assets/5c84f024-57ed-4dec-a52e-9ec75227f32e)
+![Screenshot 2024-10-27 173641](https://github.com/user-attachments/assets/1ed10afe-0601-47c9-bc6e-a30dab7e8f8d)
+
+![Screenshot 2024-10-27 190305](https://github.com/user-attachments/assets/e00f4acd-6e7f-4bbb-93a3-09aeaa3c95ed)
+![Screenshot 2024-10-27 190248](https://github.com/user-attachments/assets/97b1c36e-d9da-4fef-a829-486982881c36)
+![Screenshot 2024-10-27 190221](https://github.com/user-attachments/assets/a4d324dd-553b-4c7e-81c8-2829ed48b3b2)
+![Screenshot 2024-10-27 190212](https://github.com/user-attachments/assets/0ecbfda5-baa5-4c0f-86eb-ea3284fc89f2)
+![Screenshot 2024-10-27 190425](https://github.com/user-attachments/assets/7a67ba43-aedd-4f85-8257-59bdc792b1f6)
+![Screenshot 2024-10-27 190348](https://github.com/user-attachments/assets/8a72c4f6-8241-4b3a-ba56-b6dcef69d4d8)
+![Screenshot 2024-10-27 190330](https://github.com/user-attachments/assets/f92f6d5d-57b8-4e3c-be95-7c1483cbfe9a)
+![Screenshot 2024-10-27 191526](https://github.com/user-attachments/assets/26e9cecf-7a86-4160-a01a-54dd60559c08)
+![Screenshot 2024-10-27 191514](https://github.com/user-attachments/assets/8029375e-5c21-4ce1-82e7-b9992b1f23ab)
+![Screenshot 2024-10-27 191505](https://github.com/user-attachments/assets/cdcbec1d-8346-4ff5-87f9-727ea8e51bfb)
+![Screenshot 2024-10-27 191447](https://github.com/user-attachments/assets/79a2e2e5-6ab7-4c84-afbb-fea49eeb22d0)
+![Screenshot 2024-10-27 191437](https://github.com/user-attachments/assets/9c07ce3d-d892-4caf-bef7-f11ad7e8526f)
+![Screenshot 2024-10-27 191429](https://github.com/user-attachments/assets/7add4bf9-cee5-40ee-be8e-0eca529ece9c)
+![Screenshot 2024-10-27 191606](https://github.com/user-attachments/assets/85cb2687-071d-4fa7-916c-ccea5b3686ae)
+![Screenshot 2024-10-27 191543](https://github.com/user-attachments/assets/507f3943-f227-4201-ae9a-5d3c3693396f)
+
 ## Getting Started
 
 First, run the development server:
